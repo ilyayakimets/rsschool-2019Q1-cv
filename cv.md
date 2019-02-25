@@ -1,8 +1,7 @@
 # RESUME
 
-1. *Name:*  
-2. *Ilya Yakimets*  
-3. *Contacts:*  
-    1. *Phone number: +375(29)271-05-07*
-    2. *Email: <ilyayakimtes@gmail.com>*  
++ *Name: Ilya Yakimets*  
++ *Contacts:*  
+    - *Phone number: +375(29)271-05-07*
+    - *Email: <ilyayakimtes@gmail.com>*  
 
