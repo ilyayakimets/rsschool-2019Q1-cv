@@ -9,9 +9,10 @@
 + *Skills:*
     - 1C - *7 month of experience.* 
     - HTML/CSS - *Basic knowledge.*
+    - JavaScript - *Basic knowledge.*
     - C# - *Basic knowledge, do some apps during educations.*
     - MS SQL - *Basic knowledge.*
-    - MS Visual Studio, VSCode.
+    - MS Visual Studio, VSCode, 1C:Enterprise.
 + *Code examples:* 
 ```
 module.exports = function getLoveTrianglesCount(preferences = []) {
@@ -34,4 +35,6 @@ for(let a = 0; a < length; a++){
 return count/3;
 }
 ```
-+ *Experience:*
++ *Work Experience:*
+    -[**СЗАО ЭнергоОил**](http://energooil.com/) - February 2019 — until now. - 1C Programmer.
+    -[**IT-LITE**](http://www.it-lite.ru/) - August 2018 — January 2019. - 1C Programmer. 
