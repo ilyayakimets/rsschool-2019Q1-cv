@@ -41,8 +41,8 @@ return count/3;
     - *Learn and make labs on HTML, CSS, JS in college.*
 
 + *Education:*
-    - [**College of Business and Law**](https://www.bsuir.by/) - *2014 - 2018.*
-    - [**BSUIR**](https://kbp.by/) - *2018 - until now.*
+    - [**College of Business and Law**](https://www.kbp.by/) - *2014 - 2018.*
+    - [**BSUIR**](https://www.bsuir.by/) - *2018 - until now.*
 
 + *English level:*
     - **A2** *(Pre-Intermediate)*.
