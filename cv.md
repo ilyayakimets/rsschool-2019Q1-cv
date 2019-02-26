@@ -5,7 +5,7 @@
     - *Phone number: +375(29)271-05-07*
     - *Email: <ilyayakimtes@gmail.com>*
 + *Summary:*
-    >*Beginner Improvement-Oriented software developer. I have been working as a 1C programmer for 7 months. Since childhood, I wanted to learn various interesting things, this allowed me to become a programmer. The desire to develop allowed me to occupy a good position in such a short time. I have always been interested in websites and ?foreign languages, so I wanted to try myself in this direction.* 
+    >*Beginner Improvement-Oriented software developer. I have been working as a 1C programmer for 7 months. Since childhood, I wanted to learn various interesting things, this allowed me to become a programmer. The desire to develop allowed me to occupy a good position in such a short time. I have always been interested in websites and foreign languages, so I wanted to try myself in this direction.* 
 + *Skills:*
     - 1C - *7 month of experience.* 
     - HTML/CSS - *Basic knowledge.*
