@@ -45,4 +45,4 @@ return count/3;
     - [**BSUIR**](https://www.bsuir.by/) - *2018 - until now.*
 
 + *English level:*
-    - **A2** *(Pre-Intermediate)*.
+    - **A2** *(Elementary English)*.
