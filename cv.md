@@ -36,5 +36,6 @@ return count/3;
 }
 ```
 + *Work Experience:*
-    -[**СЗАО ЭнергоОил**](http://energooil.com/) - February 2019 — until now. - 1C Programmer.
-    -[**IT-LITE**](http://www.it-lite.ru/) - August 2018 — January 2019. - 1C Programmer. 
+    - [**СЗАО ЭнергоОил**](http://energooil.com/) - February 2019 — until now. - 1C Programmer.
+    - [**IT-LITE**](http://www.it-lite.ru/) - August 2018 — January 2019. - 1C Programmer. 
+    - Learn and make labs on HTML, CSS, JS in college.
