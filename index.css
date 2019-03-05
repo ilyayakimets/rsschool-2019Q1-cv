@@ -1,0 +1,322 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    max-width: 1024px;
+    min-width: 800px;
+    margin: 0 auto;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 22px;
+}
+
+header {
+    height: 100vh;
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+
+.page {
+    color: darkorchid;
+    font-weight: bold;
+    margin-left:50%;
+}
+
+h1 {
+    visibility: hidden;
+}
+
+.h-right {
+    font-size: 40px;
+}
+
+.about {
+    margin-top: 6vh;
+    margin-left: -1vh;
+}
+
+.name {
+    margin-bottom: -75px;
+    margin-left: -7px;
+    color: darkorchid;
+}
+
+.header-grid {
+    display: grid;
+    grid-template-columns: 28% 72%;
+}
+
+.line {
+    margin-top: 60%;
+}
+
+.info {
+    font-size: 20px;
+}
+
+.info-b {
+    color: darkorchid;
+    margin-top: -20px;
+    font-size: 18px;
+}
+
+.menu {
+    position: fixed;
+    margin-top: -75vh;
+    background-color: white;
+}
+
+.menu li {
+    list-style-type: none;
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: darkorchid;
+}
+.a_main {
+    visibility: hidden;
+}
+.summary{
+    height: 100vh;
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+
+.article {
+    margin-left: 31vh;
+    padding-top: 16vh;
+    margin-bottom: 15vh;
+}
+
+.skills {
+    height: 100vh;
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+
+.prog-s {
+    display: grid;
+    grid-template-columns: 30vh 30vh;
+    margin-left: 31vh;
+    padding-top: 16vh;
+}
+
+.skills .info {
+    margin-left: 30vh;
+    margin-bottom: 4vh;
+}
+
+.skills .line {
+    margin-left: 30vh;
+    margin-top: 18%;
+}
+
+.prog-s p {
+    margin-bottom: 1vh;
+}
+
+b {
+    color: darkorchid;
+    font-weight: bold;
+}
+
+progress {
+  background: #e6e9ed;
+  position: relative;
+  height: 8px;
+  border-radius: 5px;
+  overflow: hidden;
+  margin-bottom: 5vh;
+}
+
+progress::-webkit-progress-value {
+    background: darkorchid;
+}
+
+.code {
+    height: 100vh;
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}   
+
+.experience {
+    height: 100vh;
+}
+
+.exp {
+    border-left: 2px solid black;
+    margin-top: -40px;
+    padding-bottom: 46vh;
+}
+
+.exp ul {
+    margin-left: -23.5px;
+    color: darkorchid;
+}
+
+.exp li {
+    margin-bottom: -20px;
+}
+
+.exp span {
+    font-size: 20px;
+    color: black;
+}
+
+.item {
+    margin-bottom: 5vh;
+    padding-left: 1vh;
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+
+.experience .header-grid {
+    margin-top: 19vh;
+    grid-template-columns: 28% 36% 36%;
+}
+
+.education {
+    height: 100vh;
+}
+
+.education .header-grid {
+    margin-top: 19vh;
+    grid-template-columns: 28% 36% 36%;
+}
+
+.edu {
+    border-left: 2px solid black;
+    margin-top: -40px;
+    margin-bottom: 223px;
+}
+
+.edu ul {
+    margin-left: -31px;
+    color: darkorchid;
+}
+
+.edu li {
+    margin-bottom: -20px;
+    font-size: 25px;
+}
+
+.edu span {
+    font-size: 20px;
+    color: black;
+}
+
+.edu .line {
+    margin-top: 21%;
+    height: 1px;
+    background-color: darkorchid;
+}
+
+.italy {
+    font-family: 'Montez', cursive;
+    font-size: 64pt;
+    color: darkorchid;
+    margin-top: 20vh;
+    margin-left: 6vh;
+    transform: rotate(45deg);
+}
+
+footer {
+    height: 100vh;
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+
+footer .header-grid {
+    margin-top: 19vh;
+    grid-template-columns: 28% 72%;
+}
+
+.links {
+    font-size: 30px;
+}
+
+.links img {
+    padding-right: 10px;
+}
+
+footer .italy{
+    margin-left: 24vh;
+    transform: rotate(15deg);
+    font-size: 100pt;
+    margin-top: 15vh;
+}
+
+footer hr {
+    margin-left: 23%;
+}
+
+footer .page {
+    margin-top: -2%;
+    color: black;
+}
+
+.page-down {
+    margin-top: -8%;
+    color: black;
+    margin-left: 45%;
+}
+
+.qr {
+    padding-left: 89%;
+}
+
+/* The flip card container - set the width and height to whatever you want. We have added the border property to demonstrate that the flip itself goes out of the box on hover (remove perspective if you don't want the 3D effect */
+header img {
+    border-left: 5px solid darkorchid;
+}
+
+.flip-card {
+    background-color: transparent;
+    width: 120px;
+    height: 120px;
+    perspective: 1000px; /* Remove this if you don't want the 3D effect */
+    margin-top: -19vh;
+    margin-left: 55vh;
+  }
+  
+  /* This container is needed to position the front and back side */
+  .flip-card-inner {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    transition: transform 0.8s;
+    transform-style: preserve-3d;
+  }
+  
+  /* Do an horizontal flip when you move the mouse over the flip box container */
+  .flip-card:hover .flip-card-inner {
+    transform: rotateY(180deg);
+  }
+  
+  /* Position the front and back side */
+  .flip-card-front, .flip-card-back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    backface-visibility: hidden;
+  }
+  
+  /* Style the front side (fallback if image is missing) */
+  .flip-card-front {
+    background-color: #bbb;
+    color: black;
+  }
+  
+  /* Style the back side */
+  .flip-card-back {
+    font-size: 15px;
+    font-style: italic;
+    background-color: darkorchid;
+    color: black;
+    transform: rotateY(180deg);
+  }
+
+  .collab-page {
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+  }
