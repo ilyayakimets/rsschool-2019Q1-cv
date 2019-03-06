@@ -153,7 +153,7 @@ progress::-webkit-progress-value {
 
 .exp ul {
     margin-left: -23.5px;
-    color: darkorchid;
+    color: black;
 }
 
 .exp li {
@@ -169,6 +169,7 @@ progress::-webkit-progress-value {
     margin-bottom: 5vh;
     padding-left: 1vh;
     box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+    background-color: wheat;
 }
 
 .experience .header-grid {
@@ -193,7 +194,7 @@ progress::-webkit-progress-value {
 
 .edu ul {
     margin-left: -31px;
-    color: darkorchid;
+    color: black;
 }
 
 .edu li {
